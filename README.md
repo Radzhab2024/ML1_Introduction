@@ -32,13 +32,11 @@
 
 ```
 .
-├── notebook.ipynb        # Основной Jupyter Notebook с решением
 ├── README.md             # Описание проекта
 ├── data/
 │   └── train.json        # Данные Kaggle (не включены в репозиторий)
-└── results/
-    ├── result_MAE.csv
-    └── result_RMSE.csv
+└── src/
+    └── test.ipynb
 ```
 
 > ⚠️ **Важно**: файл с данными не хранится в репозитории.  
